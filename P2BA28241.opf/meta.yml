@@ -1,0 +1,16 @@
+id: P2BA28241
+initial_creation_type: input
+source_metadata:
+  title: Virūpa
+  language: en
+  description: 'Texts by and about the famed siddha Virūpa (birwa pa), who is the
+    fountainhead of the Lamdre (lam ''bras) teachings:'
+  volume:
+    5c758110e0b74effb41e3bf094bbb3b7:
+      title: 'The Hero''s Bellowing Laughter: In Praise of the Lord of Yogins'
+      parent: Praise
+    3a64ce7ac17843b6b8a19cb1d75b8d58:
+      title: Prayer to the Siddha Virūpa
+      parent: Prayers
+created_at: '2022-03-01T02:27:34.164947'
+last_modified_at: '2022-03-01T02:27:34.164953'
